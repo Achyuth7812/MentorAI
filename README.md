@@ -1,4 +1,5 @@
 # AI Study Assistant
+<img width="1915" height="877" alt="image" src="https://github.com/user-attachments/assets/aa9b9101-7fcc-4fcf-8dcd-91eb5ff350ef" />
 
 A comprehensive AI-powered study assistant that helps students create personalized study plans based on their uploaded study materials, exam dates, and subjects.
 
@@ -8,7 +9,7 @@ A comprehensive AI-powered study assistant that helps students create personaliz
 - Upload and process PDF study materials
 - Extract text content and create embeddings for intelligent search
 - Retrieve relevant information using vector similarity search
-- Phot for Reference <img width="1917" height="858" alt="Screenshot 2025-07-23 004528" src="https://github.com/user-attachments/assets/fd179dcf-da31-45d0-b25a-eaf701cb7104" />
+- Photo for Reference <img width="1917" height="858" alt="Screenshot 2025-07-23 004528" src="https://github.com/user-attachments/assets/fd179dcf-da31-45d0-b25a-eaf701cb7104" />
 
 
 ### 📅 Exam Planning
@@ -47,7 +48,7 @@ A comprehensive AI-powered study assistant that helps students create personaliz
 
 ### Prerequisites
 - Node.js 18+ 
-- OpenAI API key
+- Perplexity API Key
 - Hugging Face API key
 
 ### Installation
