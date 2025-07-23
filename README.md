@@ -1,4 +1,4 @@
-# AI Study Assistant
+# MentorAI:-AI Study Assistant
 <img width="1915" height="877" alt="image" src="https://github.com/user-attachments/assets/aa9b9101-7fcc-4fcf-8dcd-91eb5ff350ef" />
 
 A comprehensive AI-powered study assistant that helps students create personalized study plans based on their uploaded study materials, exam dates, and subjects.
